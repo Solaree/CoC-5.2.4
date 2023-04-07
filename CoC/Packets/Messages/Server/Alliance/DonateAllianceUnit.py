@@ -14,4 +14,4 @@ class DonateAllianceUnit(Writer):
         self.writeInt(10000000)  # AllianceUnitCharacter
 
         self.writeInt(0)  # StreamHighID
-        self.writeInt(0)  # StreamLowID
+        self.writeInt(1)  # StreamLowID
