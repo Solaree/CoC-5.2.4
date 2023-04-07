@@ -11,5 +11,5 @@ class JoinableAlliancesList(Writer):
 
     def encode(self):
 
-        self.writeInt(1)
+        self.writeInt(0)
         self.writeInt(1)
