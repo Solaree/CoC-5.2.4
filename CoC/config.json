@@ -1,0 +1,57 @@
+{
+    "Name": "Solar",
+    "AccountHighID": 0,
+    "AccountLowID": 1,
+    "HomeHighID": 0,
+    "HomeLowID": 1,
+    "ShieldDurationSeconds": 9999,
+    "ExpLevel": 99,
+    "ExpPoints": 999,
+    "Diamonds": 9999999,
+    "Score": 9999,
+    "AttackWinCount": 999,
+    "AttackLoseCount": 0,
+    "DefenseWinCount": 999,
+    "DefenseLoseCount": 0,
+    "Donations": 1337,
+    "DonationsReceived": 1337,
+
+    "AvatarHighID": 0,
+    "AvatarLowID": 1,
+
+    "AllianceHighID": 0,
+    "AllianceLowID": 1,
+    "AllianceName": "SolarLand",
+    "AllianceBadge": 13000000,
+    "AllianceMailMessage": "Welcome to CoC 5.2.4!",
+    "AllianceChatMessage": "Hi!",
+    "AllianceKickOutMessage": "Bye!",
+    "AllianceJoinRequestMessage": "I want to join your Alliance",
+    "AllianceRole": 0,
+
+    "LeagueInstanceHighID": 0,
+    "LeagueInstanceLowID": 1,
+    "LastLeagueInstanceHighID": 0,
+    "LastLeagueInstanceLowID": 1,
+    "LeagueType": 11,
+
+    "NpcHighID": 0,
+    "NpcLowID": 1,
+
+    "SenderHomeHighID": 0,
+    "SenderHomeLowID": 1,
+    "SenderLevel": 99,
+    "SenderLeagueType": 11,
+    "SenderMessageAgeSeconds": 0,
+
+    "ShardID": 0,
+    "ReplayHighID": 0,
+    "ReplayLowID": 1,
+    "ReplayMessage": "Your village got attacked!",
+    "OpponentName": "Solar",
+
+
+    "MajorVersion": 0,
+    "BuildVersion": 0,
+    "ContentVersion": 0
+}
