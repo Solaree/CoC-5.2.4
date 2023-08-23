@@ -17,7 +17,7 @@ class LoginOkMessage(Writer):
         self.writeInt(0)  # HomeHighID
         self.writeInt(1)  # HomeLowID
 
-        self.writeString("a77bad4dc5241ccb44d5a541376396208f92af8")  # PassToken
+        self.writeString("solarnik")  # PassToken
         self.writeString()  # FacebookID
         self.writeString()  # GameCenterID
 
