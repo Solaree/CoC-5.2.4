@@ -32,7 +32,6 @@ class AvailableServerCommandMessage(Writer):
         }
 
         if self.commandID in commands:
-
             self.writeInt(self.commandID)
             commands[self.commandID].encode(self)
         
