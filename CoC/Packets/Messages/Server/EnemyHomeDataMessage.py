@@ -16,9 +16,8 @@ class EnemyHomeDataMessage(Writer):
         self.writeInt(0)  # SecondsSinceLastSave
 
         LogicClientHome().encode(self)  # LogicClientHome
-        LogicClientAvatar.encode(self)  # OwnerLogicClientAvatar
-
-        LogicClientAvatar.encode(self)  # AttackerLogicClientAvatar
+        LogicClientAvatar().encode(self)  # OwnerLogicClientAvatar
+        LogicClientAvatar().encode(self)  # AttackerLogicClientAvatar
 
         self.writeInt(0)  # AttackSource
 
